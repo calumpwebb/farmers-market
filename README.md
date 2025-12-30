@@ -1,6 +1,6 @@
 # Farmers Market
 
-A marketplace of fresh, organic Claude Code goodies - skills, agents, and more.
+A marketplace of fresh, organic Claude Code produce - skills, agents, and more.
 
 ## Install
 
