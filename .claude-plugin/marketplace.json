@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "hello-farmer",
-      "source": "hello-farmer",
+      "source": "./hello-farmer",
       "description": "A fresh greeting from the farm"
     }
   ]
