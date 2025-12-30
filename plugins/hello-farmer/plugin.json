@@ -1,5 +1,6 @@
 {
   "name": "hello-farmer",
-  "version": "0.2.0",
-  "description": "A fresh greeting from the farm"
+  "version": "0.3.0",
+  "description": "A fresh greeting from the farm",
+  "skills": "./skills/"
 }
