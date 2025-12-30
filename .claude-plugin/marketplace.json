@@ -1,0 +1,17 @@
+{
+  "name": "farmers-market",
+  "owner": {
+    "name": "Calum Webb"
+  },
+  "metadata": {
+    "description": "Fresh, organic Claude Code produce",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "hello-farmer",
+      "source": "hello-farmer",
+      "description": "A fresh greeting from the farm"
+    }
+  ]
+}
