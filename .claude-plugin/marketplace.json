@@ -12,7 +12,7 @@
       "name": "hello-farmer",
       "source": "./plugins/hello-farmer",
       "description": "A fresh greeting from the farm",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "strict": true
     }
   ]
