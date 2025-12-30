@@ -5,13 +5,15 @@
   },
   "metadata": {
     "description": "Fresh, organic Claude Code produce",
-    "pluginRoot": "./plugins"
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "hello-farmer",
-      "source": "./hello-farmer",
-      "description": "A fresh greeting from the farm"
+      "source": "./plugins/hello-farmer",
+      "description": "A fresh greeting from the farm",
+      "version": "0.1.0",
+      "strict": true
     }
   ]
 }
